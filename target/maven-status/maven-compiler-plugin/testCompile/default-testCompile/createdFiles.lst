@@ -1,0 +1,4 @@
+com\andraAstalus\serenity\steps\serenity\EndUserSteps.class
+com\andraAstalus\serenity\DefinitionTestSuite.class
+com\andraAstalus\serenity\pages\DictionaryPage.class
+com\andraAstalus\serenity\steps\DefinitionSteps.class
